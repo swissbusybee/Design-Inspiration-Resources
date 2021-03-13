@@ -4,6 +4,10 @@ A collection of websites and resources to spark creativity.
 
 ## Inspiration
 
+### Designers that inspire
+
+-[Sean Halpin](https://www.seanhalpin.design/)
+
 ### Animations
 
 - [Brittany Chiang](https://brittanychiang.com/)
@@ -28,22 +32,12 @@ A collection of websites and resources to spark creativity.
 - [Dribbble](https://dribbble.com)
 - [Site Inspire](https://www.siteinspire.com)
 - [Minimal Gallery](http://minimal.gallery)
-- [Ready Mag](https://readymag.com/explore)
 - [Matt Willey](https://mattwilley.co.uk)
-- [Interfaces Pro](https://interfaces.pro)
-- [Brutalist Websites](https://brutalistwebsites.com)
-- [Up Labs](https://www.uplabs.com)
 - [Good Web Design](http://www.goodweb.design)
 - [Land Book](https://land-book.com)
 - [Commerce Cream](https://commercecream.com)
 - [Behance](https://www.behance.net/)
-- [Codrop](https://tympanus.net/codrops/)
 - [Calltoidea](https://calltoidea.com)
-- [PatternTap](https://patterntap.com/patterntap)
-- [Inspiredesign](http://inspiredesign.me/)
-- [Instagram](https://www.instagram.com "use hashtags: design, uiux, uidesign, graphicdesign and more")
-- [Codrops](https://tympanus.net/codrops/)
-- [Landub](https://landub.com/)
 - [Look At That SaaS](https://lookatthatsaas.com/)
 - [Muzli](https://medium.muz.li/)
 - [UISources](https://www.uisources.com/)
@@ -85,6 +79,8 @@ A collection of websites and resources to spark creativity.
 - [Picture to ASCII Converter](http://picascii.com/)
 - [Lorempixel](http://lorempixel.com/)
 - [Many Pixels](https://gallery.manypixels.co/?ref=producthunt)
+- [Humaaans](https://www.humaaans.com/)
+- 
 
 ### Avatars
 
@@ -153,3 +149,13 @@ A collection of websites and resources to spark creativity.
 - [MotionSound](https://motionsound.io/)
 - [DaFont](https://www.dafont.com/)
 - [WordMark.it](https://wordmark.it/)
+- [SoundBible](https://soundbible.com/free-sound-effects-1.html)
+
+### Images 
+
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/)
+
+### Other 
+
+-[Lorem Ipsum](https://www.lipsum.com/)
