@@ -6,7 +6,7 @@ A collection of websites and resources to spark creativity.
 
 ### Designers that inspire
 
--[Sean Halpin](https://www.seanhalpin.design/)
+- [Sean Halpin](https://www.seanhalpin.design/)
 
 ### Animations
 
